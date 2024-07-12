@@ -1,0 +1,51 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face{
+  font-family: a4;
+  src: url(./assets/fonts/a4.woff2);
+}
+
+@font-face{
+  font-family: u4;
+  src: url(./assets/fonts/u4.woff2);
+}
+
+@font-face{
+  font-family: u7;
+  src: url(./assets/fonts/u7.woff2);
+}
+
+@font-face{
+  font-family: u8;
+  src: url(./assets/fonts/u8.woff2);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  
+  color: #fff;
+}
+
+html,
+body {
+  height: 100vh;
+  width: 100vw;
+  
+}
+
+span{
+  display: inline-block;
+}
+
+
+.menu-item {
+  transition: transform 0.3s ease;
+}
+
+.animate-up {
+  transform: translateY(-20px); /* Adjust as needed for the upward animation */
+}
