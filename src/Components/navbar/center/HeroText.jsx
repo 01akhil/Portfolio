@@ -25,7 +25,7 @@ function HeroText() {
   
   return (
     <div>
-      <h1 ref={textRef} className='whitespace-nowrap font-black font-[u8] uppercase text-[17vw] leading-none'>Arock</h1>
+      <h1 ref={textRef} className='whitespace-nowrap font-black font-[u8] uppercase text-[14vw] leading-none'>Akhilesh</h1>
     </div>
   )
 }

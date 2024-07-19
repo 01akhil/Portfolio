@@ -1,6 +1,6 @@
 import React from 'react'
 import { div } from 'three/examples/jsm/nodes/Nodes.js'
-import Nodes from 'three/examples/jsm/nodes/Nodes.js';
+
 function SubHeading() {
   return (
  <div className='flex justify-between  font-[a4]  relative  leading-none text-xs -mt-6 uppercase text-left '>

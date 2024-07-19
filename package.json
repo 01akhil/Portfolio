@@ -12,10 +12,14 @@
   "dependencies": {
     "@gsap/react": "^2.1.1",
     "@jdion/tilt-react": "^1.0.0",
+    "@react-three/drei": "^9.108.4",
+    "@react-three/fiber": "^8.16.8",
     "gsap": "^3.12.5",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-router-dom": "^6.24.1",
+    "react-slick": "^0.30.2",
+    "slick-carousel": "^1.8.1",
     "three": "^0.166.1"
   },
   "devDependencies": {
