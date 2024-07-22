@@ -33,7 +33,7 @@ const ParallaxComponent = () => {
         alt="Background Image"
       />
       <img
-        src="https://01akhil.github.io/portfolio/src/arock_landing_page_model-removebg.jpg"
+        src="https://01akhil.github.io/portfolio/src/arock_landing_page_model-removebg.png"
         data-speedx="0.085"
         data-speedy="0.05"
         className="parallax absolute top-1/2 left-1/2 w-full h-auto transform -translate-x-1/2 -translate-y-1/2 transition-transform duration-500 ease-[cubic-bezier(0.2,0.49,0.32,0.99)] pointer-events-none"
